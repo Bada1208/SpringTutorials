@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_introductory/1_introductory.iml" filepath="$PROJECT_DIR$/1_introductory/1_introductory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2a_beanfactory_container/2a_beanfactory_container.iml" filepath="$PROJECT_DIR$/2a_beanfactory_container/2a_beanfactory_container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2b_applicationcontext_container/2b_applicationcontext_container.iml" filepath="$PROJECT_DIR$/2b_applicationcontext_container/2b_applicationcontext_container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3a_scopes_singleton/3a_scopes_singleton.iml" filepath="$PROJECT_DIR$/3a_scopes_singleton/3a_scopes_singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3b_scopes_prototype/3b_scopes_prototype.iml" filepath="$PROJECT_DIR$/3b_scopes_prototype/3b_scopes_prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringTutorials.iml" filepath="$PROJECT_DIR$/SpringTutorials.iml" />
+    </modules>
+  </component>
+</project>
