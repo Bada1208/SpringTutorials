@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/4_bean_lifecycle/4_bean_lifecycle.iml" filepath="$PROJECT_DIR$/4_bean_lifecycle/4_bean_lifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_interface_beanpostprocessor/5_interface_beanpostprocessor.iml" filepath="$PROJECT_DIR$/5_interface_beanpostprocessor/5_interface_beanpostprocessor.iml" />
       <module fileurl="file://$PROJECT_DIR$/6_bean_inheritance/6_bean_inheritance.iml" filepath="$PROJECT_DIR$/6_bean_inheritance/6_bean_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_dependency_injection/7_dependency_injection.iml" filepath="$PROJECT_DIR$/7_dependency_injection/7_dependency_injection.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringTutorials.iml" filepath="$PROJECT_DIR$/SpringTutorials.iml" />
     </modules>
   </component>

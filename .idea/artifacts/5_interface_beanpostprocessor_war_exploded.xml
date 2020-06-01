@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="5_interface_beanpostprocessor:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/5_interface_beanpostprocessor_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="5_interface_beanpostprocessor/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="5_interface_beanpostprocessor" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
