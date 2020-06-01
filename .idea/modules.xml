@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/3a_scopes_singleton/3a_scopes_singleton.iml" filepath="$PROJECT_DIR$/3a_scopes_singleton/3a_scopes_singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/3b_scopes_prototype/3b_scopes_prototype.iml" filepath="$PROJECT_DIR$/3b_scopes_prototype/3b_scopes_prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/4_bean_lifecycle/4_bean_lifecycle.iml" filepath="$PROJECT_DIR$/4_bean_lifecycle/4_bean_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_interface_beanpostprocessor/5_interface_beanpostprocessor.iml" filepath="$PROJECT_DIR$/5_interface_beanpostprocessor/5_interface_beanpostprocessor.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringTutorials.iml" filepath="$PROJECT_DIR$/SpringTutorials.iml" />
     </modules>
   </component>
