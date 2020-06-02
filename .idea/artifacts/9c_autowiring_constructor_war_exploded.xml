@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="9c_autowiring_constructor:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/9c_autowiring_constructor_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="9c_autowiring_constructor/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="9c_autowiring_constructor" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

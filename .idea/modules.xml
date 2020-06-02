@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/10a_annotations_@required/10a_annotations_@required.iml" filepath="$PROJECT_DIR$/10a_annotations_@required/10a_annotations_@required.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10b_annotations_@autowired/10b_annotations_@autowired.iml" filepath="$PROJECT_DIR$/10b_annotations_@autowired/10b_annotations_@autowired.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10c_annotations_@qualifier/10c_annotations_@qualifier.iml" filepath="$PROJECT_DIR$/10c_annotations_@qualifier/10c_annotations_@qualifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10d_annotations_jsr250/10d_annotations_jsr250.iml" filepath="$PROJECT_DIR$/10d_annotations_jsr250/10d_annotations_jsr250.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_java_configuration/11_java_configuration.iml" filepath="$PROJECT_DIR$/11_java_configuration/11_java_configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_event_handling/12_event_handling.iml" filepath="$PROJECT_DIR$/12_event_handling/12_event_handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_introductory/1_introductory.iml" filepath="$PROJECT_DIR$/1_introductory/1_introductory.iml" />
       <module fileurl="file://$PROJECT_DIR$/2a_beanfactory_container/2a_beanfactory_container.iml" filepath="$PROJECT_DIR$/2a_beanfactory_container/2a_beanfactory_container.iml" />
       <module fileurl="file://$PROJECT_DIR$/2b_applicationcontext_container/2b_applicationcontext_container.iml" filepath="$PROJECT_DIR$/2b_applicationcontext_container/2b_applicationcontext_container.iml" />
@@ -11,6 +17,10 @@
       <module fileurl="file://$PROJECT_DIR$/5_interface_beanpostprocessor/5_interface_beanpostprocessor.iml" filepath="$PROJECT_DIR$/5_interface_beanpostprocessor/5_interface_beanpostprocessor.iml" />
       <module fileurl="file://$PROJECT_DIR$/6_bean_inheritance/6_bean_inheritance.iml" filepath="$PROJECT_DIR$/6_bean_inheritance/6_bean_inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/7_dependency_injection/7_dependency_injection.iml" filepath="$PROJECT_DIR$/7_dependency_injection/7_dependency_injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_collection_injection/8_collection_injection.iml" filepath="$PROJECT_DIR$/8_collection_injection/8_collection_injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9a_autowiring_byname/9a_autowiring_byname.iml" filepath="$PROJECT_DIR$/9a_autowiring_byname/9a_autowiring_byname.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9b_autowiring_bytype/9b_autowiring_bytype.iml" filepath="$PROJECT_DIR$/9b_autowiring_bytype/9b_autowiring_bytype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9c_autowiring_constructor/9c_autowiring_constructor.iml" filepath="$PROJECT_DIR$/9c_autowiring_constructor/9c_autowiring_constructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringTutorials.iml" filepath="$PROJECT_DIR$/SpringTutorials.iml" />
     </modules>
   </component>

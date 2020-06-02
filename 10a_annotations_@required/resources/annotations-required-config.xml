@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
+
+    <context:annotation-config/>
+
+    <!-- Definition for developer bean -->
+    <bean id="developer" class="com.sysoiev.annotations.qualifier.required.Developer">
+        <constructor-arg name="name" value="Proselyte"/>
+        <constructor-arg name="experience" value="3"/>
+        <constructor-arg name="specialty" value="Java developer"/>
+        <property name="name" value=""/>
+        <property name="experience" value=""/>
+        <property name="specialty" value=""/>
+    </bean>
+</beans>
