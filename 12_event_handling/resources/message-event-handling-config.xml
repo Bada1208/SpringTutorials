@@ -3,4 +3,11 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
+    <bean id="message" class="com.sysoiev.event_handling.Message">
+        <property name="message" value="This is simple message."/>
+    </bean>
+    <bean id="myStartEventHandler"
+          class="com.sysoiev.event_handling.MyStartEventHandler"/>
+    <bean id="myStopEventHandler"
+          class="com.sysoiev.event_handling.MyStopEventHandler"/>
 </beans>
